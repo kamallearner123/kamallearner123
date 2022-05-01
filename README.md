@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kamallearner123
 - 👀 I’m interested in developing security modules apllying AI/ML
-- 🌱 I’m currently learning algorithms and Rust programming
-- 💞️ I’m looking to collaborate on open source related to security module using Rust program
+- 🌱 I’m currently learning data structures, algorithms and Rust programming
+- 💞️ I’m looking to collaborate on open source; related to security module
 - 📫 How to reach me kamalbec2004@gmail.com
 
 <!---
