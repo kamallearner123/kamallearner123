@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @kamallearner123
+- My favourite programming languages are Rust and Python.
 - 👀 I’m interested in developing security modules apllying AI/ML
 - 🌱 I’m currently learning data structures, algorithms and Rust programming
 - 💞️ I’m looking to collaborate on open source; related to security module
